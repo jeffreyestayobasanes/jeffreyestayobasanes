@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, electronics and farming
 - 🌱 I’m currently learning web development and self-taught electronics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me , just send me a message
+- 📫 How to reach me 
 
 <!---
 jeffreyestayobasanes/jeffreyestayobasanes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
